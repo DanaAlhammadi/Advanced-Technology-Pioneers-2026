@@ -1,1 +1,13 @@
+{
+  "scenario_id": "S001",
+  "source_market": "IND",
+  "start_month": "2027-01",
+  "end_month": "2027-03",
 
+  "interventions": {
+    "weekly_flights_delta": 2,
+    "scheduled_seats_delta": null,
+    "load_factor_override": null,
+    "route_status": "unchanged"
+  }
+}
